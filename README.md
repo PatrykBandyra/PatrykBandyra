@@ -4,6 +4,7 @@ My interests:
 - ML
 - NN
 - Web
+- Android
 - Data Science
 
 <!---
