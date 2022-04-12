@@ -1,5 +1,3 @@
-Hi, I'm Patryk Bandyra, student of CS at Warsaw University of Technology.  
-I like to learn new technologies.  
 My interests:  
 - ML
 - NN
