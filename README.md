@@ -1,9 +1,7 @@
-My interests:  
-- ML
-- NN
-- Web
-- Android
-- Data Science
+My interests:
+- Full-Stack Web Development (SpringBoot & Angular)
+- Machine Learning & Data Engineering
+- Native Android Development
 
 <!---
 PatrykBandyra/PatrykBandyra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
